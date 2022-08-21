@@ -69,10 +69,10 @@
 }
 
 /* ACA EL NAVBAR */
-html,
+/* html,
 body {
-  overflow-x: hidden; /* Prevent scroll on narrow devices */
-}
+  overflow-x: hidden;
+} */
 
 body {
   padding-top: 56px;
